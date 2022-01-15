@@ -72,11 +72,11 @@ feedback.
 
 ## Useful links
 
-- :book: [AtomicDEX Documentation](https://developers.komodoplatform.com/basic-docs/atomicdex/atomicdex-tutorials/introduction-to-atomicdex.html)
-- :link: [AtomicDEX Website](https://atomicdex.io/)
-- :speech_balloon: [AtomicDEX Discord](https://discord.gg/tvp96Gf)
-- :hammer_and_wrench: [AtomicDEX Development Boards](https://github.com/KomodoPlatform/atomicDEX-Desktop/projects)
-- :notebook_with_decorative_cover: [AtomicDex Wiki](https://github.com/KomodoPlatform/atomicDEX-Desktop/wiki/)
+- :book: [ILNatomicDEX Documentation](https://developers.komodoplatform.com/basic-docs/atomicdex/atomicdex-tutorials/introduction-to-atomicdex.html)
+- :link: [ILNatomicDEX Website](https://ilien.io/)
+- :speech_balloon: [ILNatomicDEX Discord](https://discord.gg/7qEHwDMP)
+- :hammer_and_wrench: [ILNatomicDEX Development Boards](https://github.com/KomodoPlatform/atomicDEX-Desktop/projects)
+- :notebook_with_decorative_cover: [ILNatomicDex Wiki](https://github.com/KomodoPlatform/atomicDEX-Desktop/wiki/)
 
 
 ## AtomicDEX mobile
