@@ -10,10 +10,10 @@ on:
 
 
 env:
-  DEX_PROJECT_NAME: "atomicdex-desktop"
-  DEX_DISPLAY_NAME: "AtomicDex Desktop"
+  DEX_PROJECT_NAME: "ILNatomicdex-desktop"
+  DEX_DISPLAY_NAME: "ILNatomicDex Desktop"
   DEX_COMPANY: "KomodoPlatform"
-  DEX_WEBSITE: "https://atomicdex.io/"
+  DEX_WEBSITE: "https://ilien.io/"
 
 jobs:
 
