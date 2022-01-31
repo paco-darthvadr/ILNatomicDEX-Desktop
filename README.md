@@ -72,8 +72,8 @@ feedback.
 
 ## Useful links
 
-- :book: [ILNatomicDEX Documentation](https://developers.komodoplatform.com/basic-docs/atomicdex/atomicdex-tutorials/introduction-to-atomicdex.html)
-- :link: [ILNatomicDEX Website](https://ilien.io/)
+- :book: [ilienatomicDEX Documentation](https://developers.komodoplatform.com/basic-docs/atomicdex/atomicdex-tutorials/introduction-to-atomicdex.html)
+- :link: [ilienatomicDEX Website](https://ilien.io/)
 - :speech_balloon: [ILNatomicDEX Discord](https://discord.gg/7qEHwDMP)
 - :hammer_and_wrench: [ILNatomicDEX Development Boards](https://github.com/KomodoPlatform/atomicDEX-Desktop/projects)
 - :notebook_with_decorative_cover: [ILNatomicDex Wiki](https://github.com/KomodoPlatform/atomicDEX-Desktop/wiki/)
